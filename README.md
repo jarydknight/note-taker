@@ -6,10 +6,12 @@
   ## Table of Contents
 
   * [Description](#description)
+  * [Technologies](#technologies)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
+  * [Demo](#demo)
   * [Tests](#tests)
   * [Questions](#questions)
 
@@ -18,6 +20,15 @@
   ## Description
 
   The purpose of the project is to use Express to build a server for a note taker so that notes from a client can be stored in the back-end then later retireved and served back to the client.
+
+  ---
+
+  ## Technologies
+
+  * NodeJS
+  * Express
+  * Heroku
+  * uuid (NPM package)
 
   ---
 
@@ -52,6 +63,8 @@
   ---
 
   ## Demo
+
+  Deployed application: https://note-taker-no-jutsu.herokuapp.com/
 
   ![homepage](./assets/images/screenshot_1.png)
   ![add note blank](./assets/images/screenshot_2.png)
